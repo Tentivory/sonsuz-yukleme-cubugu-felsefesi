@@ -1,0 +1,13 @@
+{
+  "name": "sonsuz-yukleme-cubugu-felsefesi",
+  "version": "0.0.1-sonsuza-kadar",
+  "description": "Yükleme çubuğu bitmez. Hayat da bitmez.",
+  "main": "yukleme_felsefesi.py",
+  "scripts": {
+    "start": "python3 yukleme_felsefesi.py",
+    "bekle": "echo 'Bekleniyor...' && sleep 999999"
+  },
+  "keywords": ["felsefe", "bekleme", "yükleme", "varoluş", "türkçe"],
+  "author": "Grok the Waiter",
+  "license": "MIT-Tomorrow"
+}
